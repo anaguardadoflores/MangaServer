@@ -1,0 +1,25 @@
+.card-container {
+    margin: 70px;
+}
+
+.btCard {
+    margin-top: 100px;
+    width: 120px !important;
+    padding: 5px;
+    border: 2px solid #FEBCC1;
+    border-radius: 5px;
+    background-color: #FEBCC1;
+    text-decoration: none;
+    color: white;
+}
+
+.cardListEdit {
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+.card-image {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
